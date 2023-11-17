@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    background-image: url("https://w0.peakpx.com/wallpaper/758/947/HD-wallpaper-nba-national-basketball-association-usa-basketball-nba-logo-emblem.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+header{
+    width: 100%;
+    height: 100%;
+    background-color: #0a95d5;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.descripcion{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    height: 350px;
+    width: 100%;
+    margin-bottom: 400px;
+    box-sizing: border-box;
+    background-color: #0256a3;
+}
+h2{
+    color: #bdbdbd;
+}
+p{
+    color: white;
+}
+.imagen{
+    padding: 5px;
+    height: 350px;
+}
+img{
+    width: 100%;
+    height: 340px;
+    box-sizing: border-box;
+}
+.texto{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    height: 100%;
+}
+p1{
+    width: 100%;
+    height: 100%;
+    margin: 4px 4px 2px 4px;
+    height: 100%;
+}
+p2{
+    width: 100%;
+    height: 100%;
+    margin: 2px 4px 2px 4px;
+    height: 100%;
+}
+p3{
+    width: 100%;
+    height: 100%; 
+    margin: 2px 4px 4px 4px;
+    height: 100%;
+}
+.productos{
+    height: 100%;
+    background-color: #0256a3;   
+    width: 100%;
+}
+.productos>h2{
+    text-align: center;
+}
+.aroramp{
+    background-color: #0070d8;
+    border: 2px solid #00386d;
+    border-radius: 1%;
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+}
+.aroramp>img{
+    width: 70%;
+    box-sizing: border-box;
+    height: 100%;
+    padding: 5px;
+}
+#texto{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+span{
+    color: black;
+}
+li{
+    color: black;
+}
+.a{
+    color: black;
+}
+h3{
+    color: #013b10;
+    text-align: center;
+}   
+footer{
+    background-color: #0a95d5;
+    color: white;
+    padding: 5px;
+}
